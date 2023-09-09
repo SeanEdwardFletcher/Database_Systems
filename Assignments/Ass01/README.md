@@ -18,9 +18,13 @@ All the extracted information must then be saved in .tsv file(s)
 To run this notebook, you will need to install the following libraries:
 
   os
+  
   csv
+  
   re
+  
   BeautifulSoup
+  
   yake
     
 ## Usage
