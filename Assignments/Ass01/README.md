@@ -17,15 +17,15 @@ All the extracted information must then be saved in .tsv file(s)
 
 To run this notebook, you will need to install the following libraries:
 
-  os
+    os
   
-  csv
+    csv
   
-  re
+    re
   
-  BeautifulSoup
+    BeautifulSoup
   
-  yake
+    yake
     
 ## Usage
 
