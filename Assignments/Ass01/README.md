@@ -38,12 +38,12 @@ To run this notebook, you will need to install the following libraries:
 
 Much of the data seems to have been cleanly extracted. There are, however, some anomalies such as: 
 
-  some of the http files do not use the same div or class tags the majority of the other files use, and their information is there therefore missing
+  .  some of the http files do not use the same div or class tags the majority of the other files use, and their information is there therefore missing
   
-  some of the math papers use a form of notation in their abstracts that was not "cleaned" by BeautifulSoup, 
+  .  some of the math papers use a form of notation in their abstracts that was not "cleaned" by BeautifulSoup, 
   the "dirty" abstract then bled into the keyword extraction and "dirtied" the keywords. example: "end_POSTSUBSCRIPT blackboard_A start_POSTSUBSCRIPT 3"
 
-  some of the author information is mixed up with each other, like an email address of an author is sometimes included in the authors' affiliations section
+  .  some of the author information is mixed up with each other, like an email address of an author is sometimes included in the authors' affiliations section
 
 There are probably more anomalies, but these are ones that I have found so far.
 
