@@ -36,6 +36,8 @@ To run this notebook, you will need to install the following libraries:
 
 ## Results
 
+The data is saved in a .tsv file with the following labels ('file_name', 'paper_title', 'author_names', 'author_emails', 'author_affiliation', 'paper_abstract', 'keywords')
+
 Much of the data seems to have been cleanly extracted. There are, however, some anomalies such as: 
 
   .  some of the http files do not use the same div or class tags the majority of the other files use, and their information is there therefore missing
