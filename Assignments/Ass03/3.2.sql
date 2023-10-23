@@ -1,0 +1,1 @@
+SELECT COUNT(*) FROM Authors WHERE lname = "Rogers";
