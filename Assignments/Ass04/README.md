@@ -1,6 +1,6 @@
 # A collection of MySQL queries, functions and procedures wrapped in Python functions
 
-This is a class assignment where each function is run in main with print statments. The database they are accessing is a collection of data from www.imdb.com.
+This is a class assignment where each function is run in main with print statements. The database they are accessing is a collection of data from www.imdb.com.
 
 The .PDF file "Assignment 4" is the assignment description.
 
